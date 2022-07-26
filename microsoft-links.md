@@ -20,7 +20,6 @@
 * [Kaizala Management Portal](https://manage.kaiza.la)
 * [Skype for Business admin center](https://webdir2a.online.lync.com/LSCP)
 * [Office 365 admin message center](https://portal.office.com/adminportal/home#/MessageCenter)
-
 * [Apps Admin Center](https://config.office.com)
 * [Microsoft Appsource](https://appsource.microsoft.com/)
 * [Microsoft Store for Business](https://businessstore.microsoft.com)

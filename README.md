@@ -1,5 +1,5 @@
-# Internet-shortcuts
-Repository for collecting valuable internet shortcuts in one single place...
+# Internet-links
+Repository for collecting valuable internet links in one single place...
 
-* [Microsoft shortcuts](microsoft-shortcuts.md)
-* [Crypto shortcuts](crypto-shortcuts.md)
+* [Microsoft links](microsoft-links.md)
+* [Crypto links](crypto-links.md)
