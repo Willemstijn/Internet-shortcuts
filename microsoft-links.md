@@ -116,6 +116,7 @@
 * [Microsoft developer portal](https://developer.microsoft.com/)
 * [Microsoft 365 developer program](https://developer.microsoft.com/en-us/microsoft-365/profile)
 * [Office 365 Teams developer portal](https://dev.teams.microsoft.com/home)
+* [Microsoft Teams developer documentation on DOCS](https://docs.microsoft.com/en-us/microsoftteams/platform/mstdd-landing)
 * [Actionable Messages Developer Dashboard](https://outlook.office.com/connectors/oam/publish)
 * [Actionable Message Designer](https://amdesigner.azurewebsites.net/)
 * [Adaptive Cards Designer](https://adaptivecards.io/designer/)
@@ -337,6 +338,7 @@
 * [Power platform community](https://powerusers.microsoft.com/)
 * [Microsoft Teams PowerShell Commands to List All Members and Owners](https://dailysysadmin.com/KB/Article/3607/microsoft-teams-powershell-commands-to-list-all-members-and-owners/)
 * [Useful PowerShell cmdlets to administer Office 365 Groups](https://vigneshsharepointthoughts.com/2018/05/16/useful-powershell-cmdlets-to-administer-office-365-groups/)
+* [App templates for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/app-templates)
 
 # Favorites
 
