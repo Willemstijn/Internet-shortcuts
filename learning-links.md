@@ -1,9 +1,16 @@
 # Overview of the best resources for learning stuff
 
-## Tech
+- [Overview of the best resources for learning stuff](#overview-of-the-best-resources-for-learning-stuff)
+- [Tech](#tech)
+  - [Python, datascience & machine learning](#python-datascience--machine-learning)
+  - [Microsoft stuff](#microsoft-stuff)
+  - [Other technologies that are uesfull](#other-technologies-that-are-uesfull)
+- [Trading](#trading)
+
+# Tech
 
 
-### Python, datascience & machine learning
+## Python, datascience & machine learning
 
 * [Official Python docs page](https://www.python.org/doc/)
 * [Python developer's guide](https://devguide.python.org/)
@@ -20,44 +27,15 @@
 * [Advance Python Programming Full Course | Python Full Course | Learn Python In One Video |Simplilearn](https://www.youtube.com/watch?v=Yrtm7d3TJbs)
 * [Most Advance Python Course for Professionals [2022]](https://www.youtube.com/watch?v=7v_TVJHodiI)
 
-### Microsoft stuff
+## Microsoft stuff
 
-**main**
-
-* [Microsoft official docs](https://docs.microsoft.com/en-us/)
-* [Microsoft Learn main page](https://docs.microsoft.com/en-us/learn/)
-* [Microsoft 365 training](https://support.microsoft.com/en-us/training)
-
-**Technologies**
-
-* [Sharepoint](https://docs.microsoft.com/en-us/sharepoint/)
-* [Search](https://docs.microsoft.com/en-us/microsoftsearch/)
-* [Teams](https://docs.microsoft.com/en-us/microsoftteams/)
-* [Power Platform](https://docs.microsoft.com/en-us/power-platform/)
-* [Power Apps](https://docs.microsoft.com/en-us/power-apps/)
-* [Power Automate](https://docs.microsoft.com/en-us/power-automate/)
-* [Power BI](https://docs.microsoft.com/en-us/power-bi/)
-* [Power Pages](https://docs.microsoft.com/en-us/power-pages/)
-* [Power Virtual Agents](https://docs.microsoft.com/en-us/power-virtual-agents/)
-* [Microsoft Dataverse](https://docs.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro)
-* [Power Querie](https://docs.microsoft.com/en-us/power-query/)
-* [PowerShell](https://docs.microsoft.com/en-us/powershell/)
-* [Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/?view=o365-worldwide)
-* [Compliance](https://docs.microsoft.com/en-us/compliance/)
-* [OneDrive](https://docs.microsoft.com/en-us/onedrive/)
-* [Stream](https://docs.microsoft.com/en-us/stream/)
-* [Viva](https://docs.microsoft.com/en-us/viva/?view=o365-worldwide)
-* [Bookings](https://docs.microsoft.com/en-us/microsoft-365/bookings/?view=o365-worldwide)
-* [Graph](https://docs.microsoft.com/en-us/graph/)
-* [Kaizala](https://docs.microsoft.com/en-us/kaizala/)
-* [VS Code](https://code.visualstudio.com/docs)
-* [Yammer](https://docs.microsoft.com/en-us/yammer/)
-
-### Other technologies that are uesfull
+See the [Microsoft links page](./microsoft-links#learn.md)
+## Other technologies that are uesfull
 
 * [Docker official docs](https://docs.docker.com/)
 * Learn Docker githup pages: [1](https://github.com/willitscale/learning-docker) [2](https://github.com/dwyl/learn-docker) [3]()
 * [Github docs](https://docs.github.com/en)
+* [Home assistant](https://www.home-assistant.io/getting-started/)
 
 **w3schools**
 
@@ -78,6 +56,5 @@
 * [Derek Banas](https://www.youtube.com/c/derekbanas/videos)
 * [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 
-
-## Trading
+# Trading
 

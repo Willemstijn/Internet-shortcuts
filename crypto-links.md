@@ -1,6 +1,21 @@
 # Digital assets and more shortcuts
 
-## Crypto Trading
+- [Digital assets and more shortcuts](#digital-assets-and-more-shortcuts)
+- [Crypto Trading](#crypto-trading)
+- [Crypto News](#crypto-news)
+- [Aggregators](#aggregators)
+- [Crypto Prices](#crypto-prices)
+- [Crypto Charts / dashboards](#crypto-charts--dashboards)
+- [Crypto trading Technical Analysis](#crypto-trading-technical-analysis)
+- [Crypto Learn](#crypto-learn)
+- [Crypto Defi](#crypto-defi)
+- [Tools & techical stuff](#tools--techical-stuff)
+- [Social](#social)
+- [Wallets](#wallets)
+- [Youtube vlogs](#youtube-vlogs)
+- [Misc](#misc)
+
+# Crypto Trading
 
 List of exchanges for cryptocurrency trading or storing.
 
@@ -13,7 +28,7 @@ List of exchanges for cryptocurrency trading or storing.
 * [Bitcoin Longs vs Shorts](https://datamish.com/btcusd)
 * [Gecombineerde bitcoin orderbook](https://data.bitcoinity.org/markets/books/USD?fbclid=IwAR35yiXfSB-d6IDX77DhAC4fdeAQL0zJgtIlhThDKxaKng1VBRL1Dlaacp4)
 
-## Crypto News
+# Crypto News
 
 List of sites with news about Crypto and investing.
 
@@ -41,14 +56,14 @@ List of sites with news about Crypto and investing.
 * [Trustnodes](https://www.trustnodes.com/news/crypto)
 * [Bitcoin magazine NL](https://bitcoinmagazine.nl/)
 
-### Aggregators
+# Aggregators
 
 News aggregation sites.
 
 * [Crypto Panic](https://cryptopanic.com/)
 * [Today on chain](https://www.todayonchain.com/)
 
-## Crypto Prices
+# Crypto Prices
 
 Sites with the prices of cryptocurrencies.
 
@@ -64,7 +79,7 @@ Sites with the prices of cryptocurrencies.
 * [Google finance cryptocurrencies](https://www.google.com/finance/markets/cryptocurrencies)
 * [Yahoo finance](https://finance.yahoo.com/cryptocurrencies/)
 
-## Crypto Charts / dashboards
+# Crypto Charts / dashboards
 
 Sites with charts on crypto and other market indicators or dashboards.
 
@@ -86,28 +101,28 @@ Sites with charts on crypto and other market indicators or dashboards.
 * [Aggr trade](https://aggr.trade/#)
 * [Bitcoin ROI vs other assets](https://finbold.com/bitcoin-roi)
 
-## Crypto trading Technical Analysis
+# Crypto trading Technical Analysis
 
 TA sites for trading.
 
 * [Chartpatterns](http://thepatternsite.com/)
 * [Tradingview ideas](https://www.tradingview.com/ideas/cryptocurrency/)
 
-## Crypto Learn
+# Crypto Learn
 
 Sites with Crypto courses, trainings or other CBT.
 
 * [Bitcoin price analysis with Pandas](https://datauab.github.io/bitcoin_price_analysis/)
 * [Best Blockchain Analysis Tools and How They Work?](https://bitquery.io/blog/best-blockchain-analysis-tools-and-software)
 
-## Crypto Defi
+# Crypto Defi
 
 Decentralized finance sites.
 
 * [Celsius Crypto Yielding](https://celsius.network/rates)
 * [Top 10 Staked assets value](https://www.stakingrewards.com/)
 
-## Tools & techical stuff
+# Tools & techical stuff
 
 Sites with information about programming or interfaces with crypto or blockchains.
 
@@ -124,7 +139,7 @@ Sites with information about programming or interfaces with crypto or blockchain
 * [yCharts bitcoin blockchain size](https://ycharts.com/indicators/bitcoin_blockchain_size)
 * [Cryptoprices.cc for Excel/GSheet price api](https://cryptoprices.cc/) [list](https://cryptoprices.cc/sitemap.txt)
 
-## Social
+# Social
 
 Communities about crypto and blockchain.
 
@@ -135,14 +150,14 @@ Communities about crypto and blockchain.
 * [Reddit Wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
 * [Reddit SatoshiStreetBets](https://www.reddit.com/r/SatoshiStreetBets/)
 
-## Wallets
+# Wallets
 
 Download crypto wallets.
 
 * [Exodus wallet](https://www.exodus.com/)
 * [Electrum BTC wallet](https://electrum.org/)
 
-## Youtube vlogs
+# Youtube vlogs
 
 Crypto Youtubers...
 
@@ -180,7 +195,7 @@ Crypto Youtubers...
 * []()
 * []()
 
-## Misc
+# Misc
 
 Uncategorized sites.
 

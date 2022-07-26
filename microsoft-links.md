@@ -1,6 +1,26 @@
 # Microsoft portals & websites
 
-## Office 365
+- [Microsoft portals & websites](#microsoft-portals--websites)
+- [Office 365](#office-365)
+- [Azure portals](#azure-portals)
+- [Azure AI / ML portals](#azure-ai--ml-portals)
+- [New environments](#new-environments)
+- [Reports](#reports)
+- [User portals](#user-portals)
+- [Developer portals](#developer-portals)
+- [PowerShell](#powershell)
+- [Documentation](#documentation)
+  - [Individual docs pages](#individual-docs-pages)
+- [Learn](#learn)
+- [Support and licensing](#support-and-licensing)
+- [Security portals](#security-portals)
+- [Health / status portals](#health--status-portals)
+- [Other Microsoft portals](#other-microsoft-portals)
+- [Other portals](#other-portals)
+  - [Debble / Wortell](#debble--wortell)
+  - [Misc](#misc)
+- [Favorites](#favorites)
+# Office 365
 
 * [Microsoft 365 Admin Portal](https://admin.microsoft.com)
 * [Microsoft Teams Admin Center](https://admin.teams.microsoft.com)
@@ -34,7 +54,7 @@
 * [Microsoft Remote Connectivity Analyzer](https://testconnectivity.microsoft.com)
 * [My Staff (preview)](https://mystaff.microsoft.com)
 
-## Azure portals
+# Azure portals
 
 * [Azure IT Admin Portals](https://portal.azure.com)
 * [Microsoft Azure](https://rc.portal.azure.com)
@@ -54,7 +74,7 @@
 * [Azure Universal Print](https://portal.azure.com/#blade/Universal_Print/MainMenuBlade/Overview)
 * [Azure Lighthouse Blade](https://portal.azure.com/#blade/Microsoft_Azure_CustomerHub/LighthouseBlade)
 
-## Azure AI / ML portals
+# Azure AI / ML portals
 
 * [Azure Machine Learning Studio](https://ml.azure.com)
 * [Bot Framework Dev Portal](https://dev.botframework.com)
@@ -66,7 +86,7 @@
 * [Azure Graph Explorer (Deprecated)](https://graphexplorer.azurewebsites.net/#)
 * []()
 
-## New environments
+# New environments
 
 * [Create New Tenant / Azure Active Directory](https://account.azure.com/organization)
 * [Sign-up for Office 365 E3  25 licenses  30-day free trial](https://signup.microsoft.com/get-started/signup?OfferId=B07A1127-DE83-4a6d-9F85-2C104BDAE8B4&dl=ENTERPRISEPACK&ali=1&products=cfq7ttc0k59j%3a0009&bac=1)
@@ -74,13 +94,13 @@
 * []()
 * []()
 
-## Reports
+# Reports
 
 * [Active teams and groups](https://portal.office.com/adminportal/home#/groups?WT.mc_id=TeamsAdminCenterCSH)
 * [Active sites](https://mn-admin.sharepoint.com/_layouts/15/online/AdminHome.aspx#/siteManagement/view/01.EXPORTVIEW)
 * [Manage teams](https://admin.teams.microsoft.com/teams/manage)
 
-## User portals
+# User portals
 
 * [Microsoft user portal](https://portal.office365.com)
 * [My account Office 365](https://myaccount.microsoft.com/)
@@ -91,7 +111,7 @@
 * [Yammer page](https://web.yammer.com/)
 * [My analytics (Viva)](https://myanalytics.microsoft.com/)
 
-## Developer portals
+# Developer portals
 
 * [Microsoft developer portal](https://developer.microsoft.com/)
 * [Microsoft 365 developer program](https://developer.microsoft.com/en-us/microsoft-365/profile)
@@ -113,11 +133,11 @@
 * [MS Github Open source projects and samples from Microsoft](https://github.com/microsoft)
 * [Office 365 Management APIs](https://docs.microsoft.com/en-us/office/office-365-management-api/)
 
-## PowerShell
+# PowerShell
 
 * [Manage Microsoft 365 with PowerShell](https://docs.microsoft.com/en-us/microsoft-365/enterprise/manage-microsoft-365-with-microsoft-365-powershell?view=o365-worldwide)
 
-## Documentation
+# Documentation
 
 * [Microsoft Documentation](https://docs.microsoft.com)
 * [Microsoft 365 admin center help](https://docs.microsoft.com/en-us/microsoft-365/admin/?view=o365-worldwide)
@@ -141,7 +161,7 @@
 * [PnP PowerShell](https://pnp.github.io/powershell/index.html)
 * []()
 
-### Individual docs pages
+## Individual docs pages
 
 * [Security and compliance in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/security-compliance-overview)
 * [Microsoft Information Governance in Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/manage-information-governance?view=o365-worldwide)
@@ -158,7 +178,44 @@
 * [Microsoft SharePoint Connector in Power Automate](https://docs.microsoft.com/en-us/sharepoint/dev/business-apps/power-automate/sharepoint-connector-actions-triggers)
 * []()
 
-## Learn
+# Learn
+
+**main**
+
+* [Microsoft official docs](https://docs.microsoft.com/en-us/)
+* [Microsoft Learn main page](https://docs.microsoft.com/en-us/learn/)
+* [Microsoft 365 training](https://support.microsoft.com/en-us/training)
+
+**Technologies**
+
+* [Sharepoint](https://docs.microsoft.com/en-us/sharepoint/)
+* [Search](https://docs.microsoft.com/en-us/microsoftsearch/)
+* [Microsoft Search blog](https://techcommunity.microsoft.com/t5/microsoft-search-blog/bg-p/IntelligentSearch_DiscoveryBlog)
+* [MS Learn Search fundamentals](https://docs.microsoft.com/en-us/learn/paths/microsoft-search-fundamentals/)
+* [Teams](https://docs.microsoft.com/en-us/microsoftteams/)
+* [Power Platform](https://docs.microsoft.com/en-us/power-platform/)
+* [Power platform adoption workbook](https://adoption.microsoft.com/en-us/powerplatform/)
+* [Power Apps](https://docs.microsoft.com/en-us/power-apps/)
+* [Power Automate](https://docs.microsoft.com/en-us/power-automate/)
+* [Power BI](https://docs.microsoft.com/en-us/power-bi/)
+* [Power Pages](https://docs.microsoft.com/en-us/power-pages/)
+* [Power Virtual Agents](https://docs.microsoft.com/en-us/power-virtual-agents/)
+* [Microsoft Dataverse](https://docs.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro)
+* [Power Querie](https://docs.microsoft.com/en-us/power-query/)
+* [PowerShell](https://docs.microsoft.com/en-us/powershell/)
+* [Awesome PowerShell Github repo met allerlei handige info](https://github.com/janikvonrotz/awesome-powershell)
+* [Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/?view=o365-worldwide)
+* [Compliance](https://docs.microsoft.com/en-us/compliance/)
+* [OneDrive](https://docs.microsoft.com/en-us/onedrive/)
+* [Stream](https://docs.microsoft.com/en-us/stream/)
+* [Viva](https://docs.microsoft.com/en-us/viva/?view=o365-worldwide)
+* [Bookings](https://docs.microsoft.com/en-us/microsoft-365/bookings/?view=o365-worldwide)
+* [Graph](https://docs.microsoft.com/en-us/graph/)
+* [Kaizala](https://docs.microsoft.com/en-us/kaizala/)
+* [VS Code](https://code.visualstudio.com/docs)
+* [Yammer](https://docs.microsoft.com/en-us/yammer/)
+
+**Older (reduntant?) links saved**
 
 * [Microsoft 365 Training](https://support.microsoft.com/en-us/training)
 * [Power platform fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/)
@@ -176,7 +233,7 @@
 * [AI School](https://www.microsoft.com/en-us/ai/ai-school)
 * []()
        
-## Support and licensing
+# Support and licensing
 
 * [Microsoft Services Hub (service tickets and support requests)](https://serviceshub.microsoft.com)
 * [Azure Subscriptions](https://account.azure.com/Subscriptions)
@@ -190,7 +247,7 @@
 * [Volume Licensing Service Center](https://www.microsoft.com/Licensing/servicecenter/)
 * [Licensing overview for Microsoft Power Platform](https://docs.microsoft.com/en-us/power-platform/admin/pricing-billing-skus)
      
-## Security portals
+# Security portals
 
 * [Microsoft 365 Defender](https://security.microsoft.com)
 * [Microsoft 365 Compliance](https://compliance.microsoft.com)
@@ -212,7 +269,7 @@
 * [Submit Abuse Report (CERT)](https://msrc.microsoft.com/report/abuse)
 * []()
 
-## Health / status portals
+# Health / status portals
 
 * [Microsoft 365 Service health status](https://status.office.com/)
 * [Microsoft 365 Service health status (Admin portal)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)
@@ -223,7 +280,7 @@
 * [M365 Status - Twitter](https://twitter.com/MSFT365Status)
 * []()
 
-## Other Microsoft portals
+# Other Microsoft portals
 
 * [Become Microsoft Certified poster](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI/)
 * [Microsoft 365 roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=)
@@ -258,9 +315,9 @@
 * [Microsoft communities](https://techcommunity.microsoft.com/)
 * []()
 
-## Other portals
+# Other portals
 
-### Debble / Wortell
+## Debble / Wortell
 
 * [Debble knowledgebase](https://debble.sharepoint.com/sites/KnowledgeCenter)
 * [Debble roadmap](https://debble.com/roadmap)
@@ -281,7 +338,7 @@
 * [Microsoft Teams PowerShell Commands to List All Members and Owners](https://dailysysadmin.com/KB/Article/3607/microsoft-teams-powershell-commands-to-list-all-members-and-owners/)
 * [Useful PowerShell cmdlets to administer Office 365 Groups](https://vigneshsharepointthoughts.com/2018/05/16/useful-powershell-cmdlets-to-administer-office-365-groups/)
 
-## Favorites
+# Favorites
 
 * []()
 * []()
